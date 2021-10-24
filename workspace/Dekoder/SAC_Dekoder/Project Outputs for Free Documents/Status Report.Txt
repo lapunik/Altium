@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [SAC_Dekoder.PcbDoc]
+   Generated File[SAC_Dekoder-Plated.TXT]
+   Generated File[SAC_Dekoder.LDP]
+   Generated File[SAC_Dekoder.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 22:13:01 On 15.06.2020

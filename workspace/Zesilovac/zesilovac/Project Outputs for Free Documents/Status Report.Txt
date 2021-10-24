@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [PCB_zesilovac.PcbDoc]
+   Generated File[PCB_zesilovac.TXT]
+   Generated File[PCB_zesilovac.LDP]
+   Generated File[PCB_zesilovac.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 13:34:47 On 03.03.2020

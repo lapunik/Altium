@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=NetD10_2 Pin=Q2-2
+Removed Pin From Net: NetName=NetC1_1 Pin=Q2-3
+Change Component Footprint: Designator=Q2 Old Footprint=ONSC-TO-92-3-29-11 New Footprint=ONSC-TO-225-3-77-09
+Change Component Comment : Designator=Q2 Old Comment=MPS651G New Comment=BD438G
+Change Managed Component Library Link : Designator=Q2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8A0EDE4A-57CC-4D6B-BC3D-E31AB0053B9C New ItemGUID=A24349CF-1227-4FC0-9D61-31C393B0E27F Old RevisionGUID=92B396DB-AF81-4216-A8E4-D4E69719BBD7 New RevisionGUID=759E10A0-94C5-45E5-A3B0-D984776DEF93
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "ONSC-TO-92-3-29-11"; UniqueID = "\SSEUFZLT" ("\SSEUFZLT")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/BD438-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/77-09.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 15"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "fT Min (MHz)"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IC Continuous (A)"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin Flange Mount, Vertical Straight Lead, Body 7.6 x 2.7 mm, Pitch 2.29 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TO-225-3-77-09"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Rev. AC, 12/2013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Bulk Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "BD438G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "PNP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=Q2-2
+Added Pin To Net: NetName=NetD10_2 Pin=Q2-3

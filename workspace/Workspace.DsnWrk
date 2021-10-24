@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Zesilovac\zesilovac\zesilovac.PrjPcb
+[Project2]
+ProjectPath=DCC_decoder\DCC_decoder\DCC_decoder.PrjPcb

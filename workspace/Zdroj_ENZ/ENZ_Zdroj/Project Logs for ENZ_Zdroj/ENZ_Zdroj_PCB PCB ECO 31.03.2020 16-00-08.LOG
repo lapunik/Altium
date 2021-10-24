@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=C1-1
+Removed Pin From Net: NetName=Net24V_1 Pin=C1-2
+Removed Member From Class: ClassName=Zdroj Member=C1
+Change Component Comment : Designator=C2 Old Comment=47uF/16V New Comment=47uF/50V
+Change component parameters: Designator = "C2" ("C2"); Footprint = "C_EL_8X12"; UniqueID = "\PEKUQPCW" ("\PEKUQPCW")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "10= 5$"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "47uF/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C_EL_18X35)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIST#"; Value = "MOUSER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "10= 5$"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "3300uF/50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=C?-1
+Added Pin To Net: NetName=Net24V_1 Pin=C?-2
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetC5_2
+Added Member To Class: ClassName=Zdroj Member=Component C? 3300uF/50V

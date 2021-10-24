@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=NetP1_10 Pin=P1-10
+Added Pin To Net: NetName=NetP1_10 Pin=P5-8
+Added Net: Name=NetP1_10
+Added Pin To Net: NetName=NetP3_3 Pin=P3-3
+Added Pin To Net: NetName=NetP3_3 Pin=P5-1
+Added Net: Name=NetP3_3
+Added Member To Class: ClassName=Decoder_schema Member=Component C6 CC1206KPX7R9BB104
+Added Member To Class: ClassName=Decoder_schema Member=Component D4 1N4148W-7-F
+Added Member To Class: ClassName=Decoder_schema Member=Component P3 Header 15X2
+Added Member To Class: ClassName=Decoder_schema Member=Component R3 SR1206JR-07100RL

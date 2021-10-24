@@ -1,0 +1,30 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [ENZ_Zdroj.PrjPcb]
+   Generated File[ENZ_Zdroj_PCB.GTO]
+   Generated File[ENZ_Zdroj_PCB.GTP]
+   Generated File[ENZ_Zdroj_PCB.GTS]
+   Generated File[ENZ_Zdroj_PCB.GTL]
+   Generated File[ENZ_Zdroj_PCB.GBL]
+   Generated File[ENZ_Zdroj_PCB.GBS]
+   Generated File[ENZ_Zdroj_PCB.GBP]
+   Generated File[ENZ_Zdroj_PCB.GBO]
+   Generated File[ENZ_Zdroj_PCB.GM1]
+   Generated File[ENZ_Zdroj_PCB.GM13]
+   Generated File[ENZ_Zdroj_PCB.GM15]
+   Generated File[ENZ_Zdroj_PCB.GKO]
+   Generated File[ENZ_Zdroj_PCB.GPT]
+   Generated File[ENZ_Zdroj_PCB.GPB]
+   Generated File[ENZ_Zdroj_PCB.1]
+   Generated File[ENZ_Zdroj_PCB.GML]
+   Generated File[ENZ_Zdroj_PCB.GD1]
+   Generated File[ENZ_Zdroj_PCB.GG1]
+   Generated File[ENZ_Zdroj_PCB.RUL]
+   Generated File[ENZ_Zdroj_PCB.EXTREP]
+   Generated File[ENZ_Zdroj_PCB.REP]
+
+
+Files Generated   : 21
+Documents Printed : 0
+
+Finished Output Generation At 13:47:41 On 23.05.2020

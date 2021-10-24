@@ -1,0 +1,22 @@
+Change Component Footprint: Designator=D7 Old Footprint=DIODE-0.7 New Footprint=D_AX02_DO35
+Change Component Footprint: Designator=D8 Old Footprint=DIODE-0.7 New Footprint=D_AX02_DO35
+Change Component Comment : Designator=D7 Old Comment=D Zener New Comment=1N4148
+Change Component Comment : Designator=D8 Old Comment=D Zener New Comment=1N4148
+Change component parameters: Designator = "D7" ("D7"); Footprint = "DIODE-0.7"; UniqueID = "\HPNYZICT" ("\HPNYZICT")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = "1N4148"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = "0.3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "1N4148"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D8" ("D8"); Footprint = "DIODE-0.7"; UniqueID = "\TJCYNZIY" ("\TJCYNZIY")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = "1N4148"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = "0.3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "1N4148"; VariantName = "[No Variations]"
